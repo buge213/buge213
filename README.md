@@ -11,4 +11,6 @@ Eu sou Jorge Luiz, sou programador Front End, atualmente estou aprendendo e cria
  [![Jorge Luiz stats](https://github-readme-stats.vercel.app/api?username=buge213)](https://github.com/anuraghazra/github-readme-stats)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buge213)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ ![download20231005221321](https://github.com/buge213/buge213/assets/143534493/e7b929f7-3cb8-41f0-a3e1-4749cc2af653)
 
