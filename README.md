@@ -18,6 +18,11 @@ Eu sou Jorge Luiz, sou programador Front End, atualmente estou aprendendo e cria
  
  ![download20231005221321](https://github.com/buge213/buge213/assets/143534493/e7b929f7-3cb8-41f0-a3e1-4749cc2af653)
 
+ 
+ ![Snake animation](https://github.com/artur-debv/artur-debv/blob/output/github-contribution-grid-snake.svg)
+ 
+ [![readme](https://github-readme-stats.vercel.app/api/pin/?username=buge213&repo=buge213&theme=react)](https://github.com/buge213/buge213)
+
 
 
  
